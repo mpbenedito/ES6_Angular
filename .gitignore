@@ -103,4 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-
+#arquivos desnecessários da minha base local
+ES6_Angular.code-workspace
+.gitignore
